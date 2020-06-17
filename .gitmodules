@@ -1,0 +1,6 @@
+[submodule "day1/sqlalchemy/sqla_tutorial"]
+	path = day1/sqlalchemy/sqla_tutorial
+	url = https://github.com/zzzeek/sqla_tutorial
+[submodule "day1/testing-best-practices/pyweb-flog"]
+	path = day1/testing-best-practices/pyweb-flog
+	url = https://github.com/rsyring/pyweb-flog
