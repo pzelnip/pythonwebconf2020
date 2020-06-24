@@ -21,3 +21,5 @@ mindset and empower programmers of all levels.
 
 <https://bit.ly/comment-use>
 <https://veronicahanus.com/talks>
+
+![No Comment](no_comment.png)

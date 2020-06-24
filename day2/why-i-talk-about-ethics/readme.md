@@ -18,3 +18,5 @@ Algorithms of by Opression Safiya Umoja Noble
 Chaos Monkeys by Antonio Garcia Martinez
 
 <https://github.com/Data4Democracy/ethics-resources>
+
+![Call to Action](call_to_action.png)

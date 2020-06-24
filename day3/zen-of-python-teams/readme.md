@@ -55,3 +55,9 @@ Re: Happy Hour & encouraging participation:
 
 Consistency is key, let ppl know it's opt-in, personal invite, put it on the
 calendar. Be open to feedback, make it a collaborative engagement.
+
+---
+
+![The World Today](the_world_today.png)
+![For Your Next 1:1](next_1_1.png)
+![Call to Action](call_to_action.png)
