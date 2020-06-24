@@ -1,5 +1,11 @@
 # Python Web Conference 2020
 
+<https://2020.pythonwebconf.com/>
+
+<https://pwc2020.loudswarm.com/>
+
+---
+
 Meta thoughts:
 
 - very accessible conference, attendees from small countries
@@ -12,11 +18,8 @@ Meta thoughts:
   like a combination of disparite tools instead of a unified experience
 - no break between keynotes & first talks of each stream made early morning a
   bit frantic, esp for those of us to the west of EST.
-- 7 talks is too many talks from Six Feet Up people (the people hosting the
-  conference). Would've liked more diversity in experiences from speakers.
-- Fireside chat with Carl from Instagram was a standout highlight. Having the
-  opportunity to do informal Q&A with someone who's so advanced was an amazing &
-  inspiring learning opportunity.
+- 7 talks is too many talks from Six Feet Up people. Would've liked more diversity in experiences from speakers.
+- Fireside chat with Carl from Instagram was a standout highlight. Having the opportunity to do informal Q&A with someone who's so advanced was an amazing & inspiring learning opportunity.
 - interestingly I found myself interacting in conversations more because it was
   virtual in Slack. Normally in in-person conferences I feel very shy &
   introverted so it's a challenge for me to "inject" myself into conversations.
