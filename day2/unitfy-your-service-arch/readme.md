@@ -67,4 +67,4 @@ Largely just ripped on GRPC
 json-schema-env-validator https://pypi.org/project/json-schema-env-validator/
 freddy https://pypi.org/project/freddy/
 
-https://www.stavros.io/posts/fastapi-with-django/
+<https://www.stavros.io/posts/fastapi-with-django/>

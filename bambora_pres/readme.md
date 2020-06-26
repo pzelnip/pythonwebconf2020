@@ -12,7 +12,7 @@ Categories:
   - Entirely virtual
 - Tools/libraries/techniques from talks (~10 mins)
   - Sqlalchemy
-  - WebTest
+  - WebTest <https://docs.pylonsproject.org/projects/webtest/en/latest/>
   - Fastapi with Pydantic <https://fastapi.tiangolo.com/>
     - With Django? <https://www.stavros.io/posts/fastapi-with-django/>
   - Secure.py <https://secure.readthedocs.io/en/latest/>
@@ -27,12 +27,15 @@ Categories:
 - Magic (~1 mins)
   - Anvil
   - Divio
-- Cautionary Tales/Call to action/Inspirational talks
+- Cautionary Tales/Call to action/Inspirational talks (~5 mins)
   - Machine Learning & Overselling
   - Ethics in Tech
-  - Zen Of Python For Great Teams
 
-![For Your Next 1:1](../day2/../day3/zen-of-python-teams/next_1_1.png)
+![For Your Next 1:1](../day2/why-i-talk-about-ethics/call_to_action.png)
+
+- Zen Of Python For Great Teams
+
+![For Your Next 1:1](../day3/zen-of-python-teams/next_1_1.png)
 
 - Sharing experiences as a theme (~5 mins)
   - 10 Tips For Running in Prod
