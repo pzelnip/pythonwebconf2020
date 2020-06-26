@@ -34,7 +34,7 @@ share this new "21st aphorism" with their networks and team.
 
 And listen to this talk.
 
-Westrum typology of organisational cultures
+Westrum typology of organizational cultures
 
 - Pathological
 - Bureaucratic
